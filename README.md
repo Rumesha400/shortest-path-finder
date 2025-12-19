@@ -48,7 +48,7 @@ A Python-based command-line application that implements and compares **Dijkstra�
 ## ▶️ How to Run
 
 Clone the repository:
-git clone https://github.com/your-username/shortest-path-finder.git
+git clone https://github.com/Rumesha400/shortest-path-finder.git
 
 Navigate to the project directory:
 cd shortest-path-finder
